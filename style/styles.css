@@ -38,7 +38,7 @@
 }
 .listChild{
     padding: 10px;
-    background-color: rgb(188, 236, 255);
+    background-color: rgb(202, 240, 255);
 }
 .delete{
     width: 100px;
@@ -60,4 +60,10 @@
     width: 200px;
     height: 30px;
     margin: 0 auto;
+}
+
+.taskInput{
+    /* background-color:  rgb(221, 248, 248); */
+    color: black;
+    text-align: center;
 }
